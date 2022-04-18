@@ -26,5 +26,10 @@ I'm nearing the end of my studies, during which I've worked on a variety of proj
 - I've participated in projects relating to Database Management as well as Information Systems and utilising Map-Reduce workflows 📃
 - And much much more!
 
-I hope to be able to show you some of these projects here, as well as some of my own personal projects (Game Development 🎮, Arduino 💡 etc.)
+### All in all
+I've managed, among others, to gain experience in different fields, such as: *Python, C++, C#, Java, JavaFX, Git, Javascript, NodeJS, MySQL, CQL, Apache Flink*
+
+
+I hope to be able to show you some of the aforementioned projects here, as well as some of my own personal projects (Game Development 🎮, Arduino 💡 etc.)
+
 Feel free to take a look below and contact me with anything that piques your curiosity! 😊
